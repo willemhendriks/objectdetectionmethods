@@ -1,5 +1,16 @@
-objectdetectionmethods
+Object Detection Methods
 ==============================
+
+1. Toy Data Uploaden
+2. Docker Deployment Uploaden
+3. Try Various Methods. Suspects:
+- OpenCV (HAAR)
+- SSD
+- YoLo
+- Watson + boxing
+
+![schets](images/schets.jpg)
+
 
 A short description of the project.
 
